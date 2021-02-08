@@ -1,8 +1,8 @@
 /***************************************************************
 PIPELINE using FAN IN
 - Fan In pattern is a concurrency pattern that takes some inputs
-and used it into one channel.
-- Fan In pattern that takes some inputs and used it into one channel.
+and use it into one channel.
+- Fan In pattern that takes some inputs and use it into one channel.
 - It works like multiplexer.
 ***************************************************************/
 
